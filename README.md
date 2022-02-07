@@ -28,9 +28,5 @@
  <a value="tiagoagostinho49@gmail.com" alt="email">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a>
  
- <a click:"copied ="value" "value="5553991391758" alt="whatsapp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></p>
- 
- 
- 
-</a>  
+ <a "value="5553991391758" alt="whatsapp"> <p>5553991391758<p>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>  
