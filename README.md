@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML. CSS. 
+  🦄 Linguagens: HTML. CSS. JavaScript Node.JS
 </p>
 
 <p align="left">
