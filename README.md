@@ -25,6 +25,6 @@
  <a href="https://www.linkedin.com/in/tiago-da-s-agostinho-69056022a/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
- <a value="tiagoagostinho49@gmail.com" alt="email"> <p>tiagoagostinho49@gmail.com</p>
+ <a value="tiagoagostinho49@gmail.com" alt="email"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a>
  
